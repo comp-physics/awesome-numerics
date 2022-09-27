@@ -15,10 +15,12 @@ Resources for learning about numerical methods.
     - tf32: <https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/> 
   - Avoiding catastrophic cancellation with quadratic formula: <https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html> 
   - Useful lecture notes: <http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf> 
-- Linear systems 
+  
+## Linear systems
+
   - Overview of solving linear systems 
     - <https://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Solving.pdf> 
-  - Don't invert that matrix! (Ch2) 
+  - Don't invert that matrix!
     - <https://gregorygundersen.com/blog/2020/12/09/matrix-inversion/>
     - <https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/>
     - <https://scicomp.stackexchange.com/questions/26423/practical-example-of-why-it-is-not-good-to-invert-a-matrix>
