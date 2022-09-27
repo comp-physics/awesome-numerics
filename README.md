@@ -3,6 +3,7 @@
 Resources for learning about numerical methods.
 This document is a work in progress, but nevertheless contains useful information. 
 Indended audience has little or modest experience with numerical methods.
+Assumed knowledge is an undergraduate linear algebra course and the calculus/diff. equations sequence.
 Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 
 ## Linear algebra refresher 
