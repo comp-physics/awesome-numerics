@@ -1,4 +1,5 @@
 # awesome-numerics
+
 Resources for learning about numerical methods.
 
 ## Linear algebra refresher 
