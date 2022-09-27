@@ -1,4 +1,4 @@
-# awesome-numerics
+# Awesome Numerics
 
 Resources for learning about numerical methods.
 This document is a work in progress, but nevertheless contains useful information. 
