@@ -49,19 +49,15 @@ Resources for learning about numerical methods.
   - [SixtySymbols](https://www.youtube.com/watch?v=PFDu9oVAE-g)
   - [Strang (similar matrices)](https://www.youtube.com/watch?v=LKMGo8G7-vk)
   - [Strang](https://www.youtube.com/watch?v=ZTNniGvY5IQ)
+
 ## Numerical time integration 
 
   - Steve Brunton [1](https://www.youtube.com/watch?v=rdB9vN2YxKs) [2](https://www.youtube.com/watch?v=zdz1q4tJOmE) [3](https://www.youtube.com/watch?v=5CXhHx56COo)
   - [Shirokoff](https://www.youtube.com/watch?v=X5-ucBtneVM)
-  - 
+
 ## Numerical integration and quadrature 
   - [Chasnov](https://www.youtube.com/watch?v=w2xjlPwYock)
   
 ## Differential equations refresher 
   - [3Blue1Brown (ODE)](https://youtu.be/p_di4Zn4wz4)
   - [3Blue1Brown (PDE)](https://youtu.be/ly4S0oi3Yz8)
-
-
-
-
-
