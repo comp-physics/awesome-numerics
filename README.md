@@ -1,6 +1,9 @@
 # awesome-numerics
 
 Resources for learning about numerical methods.
+This document is a work in progress, but nevertheless contains useful information. 
+Indended audience has little or modest experience with numerical methods.
+Most linked content is not licensed, owned, or maintained by S. H. Bryngelson.
 
 ## Linear algebra refresher 
   - [Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
