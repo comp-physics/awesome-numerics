@@ -13,7 +13,7 @@ Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 ## Floating point numbers 
   - [Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
   - [IEEE standards](https://www.youtube.com/watch?v=RuKkePyo9zk)
-  - <https://www.geeksforgeeks.org/introduction-of-floating-point-representation/> 
+  - [GeeksForGeeks](https://www.geeksforgeeks.org/introduction-of-floating-point-representation/) 
   - Other floating point number formats 
     - [bfloat](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format)
     - [tf32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
