@@ -15,8 +15,8 @@ Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
   - [IEEE standards](https://www.youtube.com/watch?v=RuKkePyo9zk)
   - <https://www.geeksforgeeks.org/introduction-of-floating-point-representation/> 
   - Other floating point number formats 
-    - bfloat: <https://en.wikipedia.org/wiki/Bfloat16_floating-point_format>
-    - tf32: <https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/> 
+    - [bfloat](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format)
+    - [tf32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
   - Avoiding catastrophic cancellation with quadratic formula: <https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html> 
   - Useful lecture notes: <http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf> 
   
