@@ -10,8 +10,7 @@ Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 
 Numerical analysis and linear algebra are fundamentally entangled. 
 Forget your lin. alg. basics at your own risk. 
-Fortunately, there are many great resources to get you up to speed.
-Dust off your copy of Strang's book and let's go!
+Fortunately, there are many great resources to get you up to speed, so dust off your copy of Gil Strang's book and check out the links below.
 
   - [Gilbert Strang (video)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
   - [3Blue1Brown (video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
