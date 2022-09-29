@@ -58,7 +58,9 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Eigenvalues 
 
-  - [3Blue1Brown, Intro. and background (video)](https://www.3blue1brown.com/lessons/eigenvalues)
+  - Introduction
+    - [3Blue1Brown (video)](https://www.3blue1brown.com/lessons/eigenvalues)
+    - [Lecture notes from Yin Zhang of Rice](https://www.cmor-faculty.rice.edu/~zhang/caam335/F09/handouts/UH_lecture.pdf)
   - Videos from Prof. Gil Strang (MIT)
     - [Strang (similar matrices, video)](https://www.youtube.com/watch?v=LKMGo8G7-vk)
     - [Strang (symmetric matrices, video)](https://www.youtube.com/watch?v=ZTNniGvY5IQ)
