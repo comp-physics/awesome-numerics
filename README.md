@@ -33,15 +33,14 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [John Cook](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)
     - [SciComp StackExchange Q/A](https://scicomp.stackexchange.com/questions/26423/practical-example-of-why-it-is-not-good-to-invert-a-matrix)
   - Direct linear solvers 
-    - [John Foster (video)](https://www.youtube.com/watch?v=9Brr6fzDb-o)
-    - <https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_DirectSolvers.html>
-    - LU Decomp 
+    - [John Foster (video)](https://www.youtube.com/watch?v=9Brr6fzDb-o) and [accompanying notes](https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_DirectSolvers.html)
+    - LU Decomposition 
       - <https://www.youtube.com/watch?v=dza5JTvMpzk> 
       - <https://www.youtube.com/watch?v=5eBmb8ir-uA>
       - <https://math.sci.ccny.cuny.edu/document/328Ch5>
-  - How we use linear solvers to benchmark supercomputers 
-    - Vanilla linpack discussion: <https://www.top500.org/project/linpack/>
-    - High performance linpack (HPL): <https://netlib.org/benchmark/hpl/> 
+  - Using linear solvers to benchmark supercomputers 
+    - [Vanilla linpack discussion](https://www.top500.org/project/linpack/)
+    - [High performance linpack (HPL)](https://netlib.org/benchmark/hpl/)
 
 ## Least squares 
 
