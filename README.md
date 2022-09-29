@@ -7,29 +7,28 @@ Assumed knowledge is an undergraduate linear algebra course and the calculus/dif
 Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 
 ## Linear algebra refresher 
-  - [Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
-  - [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Gilbert Strang (video)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+  - [3Blue1Brown (video)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Floating point numbers 
-  - [Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
-  - [IEEE standards](https://www.youtube.com/watch?v=RuKkePyo9zk)
+  - [Computerphile (video)](https://www.youtube.com/watch?v=PZRI1IfStY0)
+  - [IEEE standards (video)](https://www.youtube.com/watch?v=RuKkePyo9zk)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/introduction-of-floating-point-representation/) 
   - Other floating point number formats 
     - [bfloat](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format)
     - [tf32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
-  - Avoiding catastrophic cancellation with quadratic formula: <https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html> 
-  - Useful lecture notes: <http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf> 
+  - [Avoiding catastrophic cancellation with quadratic formula](https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html)
+  - [Lecture notes from Richard Krueger of UT](http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf) 
   
 ## Linear systems
 
-  - Overview of solving linear systems 
-    - <https://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Solving.pdf> 
+  - [Overview of solving linear systems from Chen Greif](https://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Solving.pdf)
   - Don't invert that matrix!
-    - <https://gregorygundersen.com/blog/2020/12/09/matrix-inversion/>
-    - <https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/>
-    - <https://scicomp.stackexchange.com/questions/26423/practical-example-of-why-it-is-not-good-to-invert-a-matrix>
+    - [Greg Gundersen](https://gregorygundersen.com/blog/2020/12/09/matrix-inversion/)
+    - [John Cook](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)
+    - [SciComp StackExchange Q/A](https://scicomp.stackexchange.com/questions/26423/practical-example-of-why-it-is-not-good-to-invert-a-matrix)
   - Direct linear solvers 
-    - <https://www.youtube.com/watch?v=9Brr6fzDb-o> 
+    - [John Foster (video)](https://www.youtube.com/watch?v=9Brr6fzDb-o)
     - <https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_DirectSolvers.html>
     - LU Decomp 
       - <https://www.youtube.com/watch?v=dza5JTvMpzk> 
