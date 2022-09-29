@@ -20,8 +20,10 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [IEEE standards (video)](https://www.youtube.com/watch?v=RuKkePyo9zk)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/introduction-of-floating-point-representation/) 
   - Other floating point number formats 
-    - [bfloat](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format)
-    - [tf32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
+    - [Google bfloat](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format)
+    - [NVIDIA tf32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
+    - [Tesla cfloat](https://tesla-cdn.thron.com/static/SBY4B9_tesla-dojo-technology_OPNZ0M.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22tesla-dojo-technology.pdf%22)
+    - [Posits discussed John Cook](https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/)
   - [Avoiding catastrophic cancellation with quadratic formula](https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html)
   - [Lecture notes from Richard Krueger of UT](http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf) 
   
