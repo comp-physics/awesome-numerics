@@ -53,7 +53,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - <https://www.youtube.com/watch?v=OCLFZwi40nM>
   - Othogonalization 
     - <https://www.youtube.com/watch?v=0MtwqhIwdrI> 
-  - Gram-Schmidt and loss of orthogonality: <https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf> 
+  - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
 
 ## Eigenvalues 
 
@@ -63,12 +63,21 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Numerical time integration 
 
-  - Steve Brunton [1](https://www.youtube.com/watch?v=rdB9vN2YxKs) [2](https://www.youtube.com/watch?v=zdz1q4tJOmE) [3](https://www.youtube.com/watch?v=5CXhHx56COo)
-  - [Shirokoff](https://www.youtube.com/watch?v=X5-ucBtneVM)
+  - Steve Brunton 
+    - [Introduction to the topic](https://www.youtube.com/watch?v=rdB9vN2YxKs) 
+    - [Forward and Backward Euler](https://www.youtube.com/watch?v=zdz1q4tJOmE) 
+    - [Runge-Kutta](https://www.youtube.com/watch?v=5CXhHx56COo)
+  
+  - [David Shirokoff on Euler's method](https://www.youtube.com/watch?v=X5-ucBtneVM)
 
-## Numerical integration and quadrature 
+## Numerical integration and quadrature
+
   - [Chasnov](https://www.youtube.com/watch?v=w2xjlPwYock)
   
-## Differential equations refresher 
-  - [3Blue1Brown (ODE)](https://youtu.be/p_di4Zn4wz4)
-  - [3Blue1Brown (PDE)](https://youtu.be/ly4S0oi3Yz8)
+## Ordinary differential equations
+
+  - [3Blue1Brown (video)](https://youtu.be/p_di4Zn4wz4)
+
+## Partial differential equations
+
+  - [3Blue1Brown (video)](https://youtu.be/ly4S0oi3Yz8)
