@@ -8,9 +8,10 @@ Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 
 ## Linear algebra refresher 
 
-The fundamentals of numerical analysis is entangled with linear algebra. 
-Forget your LA basics as your own risk. 
+Numerical analysis and linear algebra are fundamentally entangled. 
+Forget your lin. alg. basics at your own risk. 
 Fortunately, there are many great resources to get you up to speed.
+Dust off your copy of Strang's book and let's go!
 
   - [Gilbert Strang (video)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
   - [3Blue1Brown (video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
