@@ -63,7 +63,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Numerical time integration 
 
-  - Steve Brunton 
+  - Videos from Prof. Steve Brunton (Washington) 
     - [Introduction to the topic](https://www.youtube.com/watch?v=rdB9vN2YxKs) 
     - [Forward and Backward Euler](https://www.youtube.com/watch?v=zdz1q4tJOmE) 
     - [Runge-Kutta](https://www.youtube.com/watch?v=5CXhHx56COo)
