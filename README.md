@@ -46,15 +46,14 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Least squares 
 
-  - [Steve Brunton](https://www.youtube.com/watch?v=PjeOmOz9jSY)
-  - [Strang](https://www.youtube.com/watch?v=ZUU57Q3CFOU)
-  - <https://johnwlambert.github.io/least-squares/>
-  - <https://towardsdatascience.com/qr-matrix-factorization-15bae43a6b2>
-  - <https://www.youtube.com/watch?v=7KP6TO5JXYY>
-  - <https://www.youtube.com/watch?v=OCLFZwi40nM>
-  - Othogonalization 
-    - <https://www.youtube.com/watch?v=0MtwqhIwdrI> 
-  - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
+  - [Steve Brunton on linear systems, least squares, and more (video)](https://www.youtube.com/watch?v=PjeOmOz9jSY)
+  - [Strang on four ways to solve least squares problems (video)](https://www.youtube.com/watch?v=ZUU57Q3CFOU)
+  - QR and its favors
+    - [Least Squares via QR with John Lambert](https://johnwlambert.github.io/least-squares/)
+    - [Gil Strang on Gram-Schmidt (video)](https://www.youtube.com/watch?v=0MtwqhIwdrI)
+    - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
+    - [Blog on QR from TDS, Ben Denis Shaffer](https://towardsdatascience.com/qr-matrix-factorization-15bae43a6b2)
+    - [Arnold Yim on QR (video)](https://www.youtube.com/watch?v=7KP6TO5JXYY)
 
 ## Eigenvalues 
 
