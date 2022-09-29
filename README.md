@@ -56,9 +56,10 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Eigenvalues 
 
-  - [SixtySymbols](https://www.youtube.com/watch?v=PFDu9oVAE-g)
-  - [Strang (similar matrices)](https://www.youtube.com/watch?v=LKMGo8G7-vk)
-  - [Strang](https://www.youtube.com/watch?v=ZTNniGvY5IQ)
+  - [3Blue1Brown, Intro. and background (video)](https://www.3blue1brown.com/lessons/eigenvalues)
+  - Videos from Prof. Gil Strang (MIT)
+    - [Strang (similar matrices, video)](https://www.youtube.com/watch?v=LKMGo8G7-vk)
+    - [Strang (symmetric matrices, video)](https://www.youtube.com/watch?v=ZTNniGvY5IQ)
 
 ## Numerical time integration 
 
