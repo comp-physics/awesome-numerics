@@ -7,8 +7,13 @@ Assumed knowledge is an undergraduate linear algebra course and the calculus/dif
 Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson.
 
 ## Linear algebra refresher 
+
+The fundamentals of numerical analysis is entangled with linear algebra. 
+Forget your LA basics as your own risk. 
+Fortunately, there are many great resources to get you up to speed.
+
   - [Gilbert Strang (video)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
-  - [3Blue1Brown (video)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [3Blue1Brown (video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Floating point numbers 
   - [Computerphile (video)](https://www.youtube.com/watch?v=PZRI1IfStY0)
