@@ -74,7 +74,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Numerical integration and quadrature
 
-  - [Chasnov](https://www.youtube.com/watch?v=w2xjlPwYock)
+  - Gaussian Quadratrue
+    - [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
   
 ## Ordinary differential equations
 
