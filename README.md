@@ -47,7 +47,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
   - [Steve Brunton on linear systems, least squares, and more (video)](https://www.youtube.com/watch?v=PjeOmOz9jSY)
   - [Strang on four ways to solve least squares problems (video)](https://www.youtube.com/watch?v=ZUU57Q3CFOU)
-  - QR and its favors
+  - QR and its flavors
     - [Least Squares via QR with John Lambert](https://johnwlambert.github.io/least-squares/)
     - [Gil Strang on Gram-Schmidt (video)](https://www.youtube.com/watch?v=0MtwqhIwdrI)
     - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
