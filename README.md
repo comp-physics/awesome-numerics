@@ -37,9 +37,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - Direct linear solvers 
     - [John Foster (video)](https://www.youtube.com/watch?v=9Brr6fzDb-o) and [accompanying notes](https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_DirectSolvers.html)
     - LU Decomposition 
-      - <https://www.youtube.com/watch?v=dza5JTvMpzk> 
-      - <https://www.youtube.com/watch?v=5eBmb8ir-uA>
-      - <https://math.sci.ccny.cuny.edu/document/328Ch5>
+      - [thenumericalmethodsguy (videos)](https://nm.mathforcollege.com/chapter-04-07-lu-decomposition-method/)
+      - [Lecture notes from CCNY Math](https://math.sci.ccny.cuny.edu/document/328Ch5)
   - Using linear solvers to benchmark supercomputers 
     - [Vanilla linpack discussion](https://www.top500.org/project/linpack/)
     - [High performance linpack (HPL)](https://netlib.org/benchmark/hpl/)
