@@ -26,6 +26,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [Posits discussed John Cook](https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/)
   - [Avoiding catastrophic cancellation with quadratic formula](https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html)
   - [Lecture notes from Richard Krueger of UT](http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf) 
+  - [What Every Computer Scientist Should Know About Floating-Point Arithmetic by David Goldberg](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
   
 ## Linear systems
 
