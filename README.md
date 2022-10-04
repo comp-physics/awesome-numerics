@@ -63,6 +63,9 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - Videos from Prof. Gil Strang (MIT)
     - [Similar matrices (video)](https://www.youtube.com/watch?v=LKMGo8G7-vk)
     - [Symmetric matrices (video)](https://www.youtube.com/watch?v=ZTNniGvY5IQ)
+  - [Why we don't use characteristic polynomials to compute eigenvalues in practice, at least for large matrices](https://mathematica.stackexchange.com/questions/20379/eigenvalues-and-determinant-of-a-large-matrix)
+    - From Michael Heath's book:
+      > Computing the coefficients of the characteristic polynomial for a given matrix is, in general, a substantial task. The coefficients of the characteristic polynomial can be highly sensitive to perturbations in the matrix, and hence their computation is unstable. Rounding error incurred in forming the characteristic polynomial can destroy the accuracy of the roots subsequently computed. Computing the roots of a polynomial of high degree is another substantial task (indeed, one of the better ways of computing the roots of a polynomial is to compute the eigenvalues of its companion matrix using the methods we use for eigenvalues. 
 
 ## Numerical time integration 
 
