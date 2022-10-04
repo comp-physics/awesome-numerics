@@ -66,6 +66,13 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [Why we don't use characteristic polynomials to compute eigenvalues in practice, at least for large matrices](https://mathematica.stackexchange.com/questions/20379/eigenvalues-and-determinant-of-a-large-matrix)
     - From Michael Heath's book:
       > Computing the coefficients of the characteristic polynomial for a given matrix is, in general, a substantial task. The coefficients of the characteristic polynomial can be highly sensitive to perturbations in the matrix, and hence their computation is unstable. Rounding error incurred in forming the characteristic polynomial can destroy the accuracy of the roots subsequently computed. Computing the roots of a polynomial of high degree is another substantial task (indeed, one of the better ways of computing the roots of a polynomial is to compute the eigenvalues of its companion matrix using the methods we use for eigenvalues. 
+  - Krylov Subspace Methods
+    - [Slides from Sanjeev Kumar of UCSD](https://cseweb.ucsd.edu/classes/fa04/cse252c/sakumar.pdf)
+    - [Slides from Karl Meerbergen of WSC](https://wsc.project.cwi.nl/woudschoten-conferences/2017-woudschoten-conference/Meerbergenslides1.pdf)
+    - [Lecture from Slim Belhaiza of KFUPM (video)](https://www.youtube.com/watch?v=w4pTZjQD4pg)
+  - QR for Eigenvalues
+    - [Lecture from Martijn Anthonissen of TUe (video)](https://www.youtube.com/watch?v=BfGAmw9qKsM)
+    - [Notes from Tin-Yau Tam of Auburn](http://webhome.auburn.edu/~tamtiny/lecture%2011.pdf)
 
 ## Numerical time integration 
 
