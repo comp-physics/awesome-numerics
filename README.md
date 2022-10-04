@@ -76,6 +76,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - Power method (or iteration)
     - [Wikipedia entry](https://en.wikipedia.org/wiki/Power_iteration)
     - Video lecture from Jeffrey Chasnov: [Part 1](https://www.youtube.com/watch?v=_PDyi5BVY-E) and [Part 2](https://www.youtube.com/watch?v=nKd0lu3yThg) 
+    - [Lecture from Jacob Bishop (video)](https://www.youtube.com/watch?v=Yhs0Fcpv6y4)
+    - [Lecture notes from of Jeffrey Wong of Duke](https://services.math.duke.edu/~jtwong/math361-2019/lectures/Lec10eigenvalues.pdf)
 
 ## Numerical time integration 
 
