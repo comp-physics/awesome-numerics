@@ -73,6 +73,9 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - QR for Eigenvalues
     - [Lecture from Martijn Anthonissen of TUe (video)](https://www.youtube.com/watch?v=BfGAmw9qKsM)
     - [Notes from Tin-Yau Tam of Auburn](http://webhome.auburn.edu/~tamtiny/lecture%2011.pdf)
+  - Power method (or iteration)
+    - [Wikipedia entry](https://en.wikipedia.org/wiki/Power_iteration)
+    - Video lecture from Jeffrey Chasnov: [Part 1](https://www.youtube.com/watch?v=_PDyi5BVY-E) and [Part 2](https://www.youtube.com/watch?v=nKd0lu3yThg) 
 
 ## Numerical time integration 
 
