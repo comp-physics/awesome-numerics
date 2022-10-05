@@ -71,6 +71,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - Code examples
     - [Andreas Klockner on several methods: QR, Householder, Givens, Gram-Schmidt, and more (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_least_squares)
     - [QR via Householder (Python)](https://python.algorithms-library.com/maths/qr_decomposition)
+    - [QR and its flavors (Matlab)](https://www.mathworks.com/matlabcentral/fileexchange/16536-qr-rq-ql-lq-factorizations)
+    - [QR from Trefethen and Bau's book in ipynb (Matlab)](https://gist.github.com/tobydriscoll/8d87997704e9fd400e96ea860d9f6a34?short_path=e6834d9)
 
 ## Eigenvalues 
 
