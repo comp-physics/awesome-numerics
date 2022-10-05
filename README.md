@@ -29,7 +29,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [What Every Computer Scientist Should Know About Floating-Point Arithmetic by David Goldberg](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
   - Code examples
     - [A Primer on Floating-Point Arithmetic and IEEE 754 in C/Cpp](https://github.com/tkphd/floating-point)
-    - [Examples of cancellation and floating point numbers from Andreas Klockner of UIUC](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/error_and_fp)
+    - [Examples of cancellation and floating point numbers from Andreas Klockner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/error_and_fp)
     
   
 ## Linear systems
@@ -47,6 +47,16 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - Using linear solvers to benchmark supercomputers 
     - [Vanilla linpack discussion](https://www.top500.org/project/linpack/)
     - [High performance linpack (HPL)](https://netlib.org/benchmark/hpl/)
+
+  - Code examples
+    - [Examples from Andreas Klockner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_systems)
+    - [LU Decomp. via Doolittle from Quantstart (Python)](https://www.quantstart.com/articles/LU-Decomposition-in-Python-and-NumPy/)
+    - [LU from John Foster (Python)](https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_LU.html)
+    - [LU in Matlab](https://gist.github.com/Musbiha/d9c32414ead11f5bd30f) and [with pivoting](https://gist.github.com/02015678/353ea94c27e4c5f89c9d)
+    - [Computing Reduced Row Echelon Form from Stelios Sfakianakis (Python)](https://gist.github.com/sgsfak/77a1c08ac8a9b0af77393b24e44c9547)
+    - [Computing LU and tridiagonal solves in (Matlab) from ashsepra](https://github.com/ashsepra/matlab-linear-equation)
+
+
 
 ## Least squares 
 
