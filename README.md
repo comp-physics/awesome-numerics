@@ -55,8 +55,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [LU in Matlab](https://gist.github.com/Musbiha/d9c32414ead11f5bd30f) and [with pivoting](https://gist.github.com/02015678/353ea94c27e4c5f89c9d)
     - [Computing Reduced Row Echelon Form from Stelios Sfakianakis (Python)](https://gist.github.com/sgsfak/77a1c08ac8a9b0af77393b24e44c9547)
     - [Computing LU and tridiagonal solves in (Matlab) from ashsepra](https://github.com/ashsepra/matlab-linear-equation)
-
-
+    - [Sherman Morrison formula (Python)](https://python.algorithms-library.com/matrix/sherman_morrison)
 
 ## Least squares 
 
