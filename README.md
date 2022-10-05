@@ -68,6 +68,10 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [Blog on QR from TDS, Ben Denis Shaffer](https://towardsdatascience.com/qr-matrix-factorization-15bae43a6b2)
     - [Arnold Yim on QR (video)](https://www.youtube.com/watch?v=7KP6TO5JXYY)
 
+  - Code examples
+    - [Andreas Klockner on several methods: QR, Householder, Givens, Gram-Schmidt, and more (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_least_squares)
+    - [QR via Householder (Python)](https://python.algorithms-library.com/maths/qr_decomposition)
+
 ## Eigenvalues 
 
   - Introduction
