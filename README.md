@@ -107,6 +107,13 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - Video lecture from Jeffrey Chasnov: [Part 1](https://www.youtube.com/watch?v=_PDyi5BVY-E) and [Part 2](https://www.youtube.com/watch?v=nKd0lu3yThg) 
     - [Lecture from Jacob Bishop (video)](https://www.youtube.com/watch?v=Yhs0Fcpv6y4)
     - [Lecture notes from of Jeffrey Wong of Duke](https://services.math.duke.edu/~jtwong/math361-2019/lectures/Lec10eigenvalues.pdf)
+    
+## Solving nonlinear Equations
+
+* Visualizing 2D root solving
+  * [2D Newton iteration](https://www.linkedin.com/pulse/article/20140906044926-58744538-visualizing-newton-s-method-for-optimization-ii) from Daniel Korenblum
+  * Another great example from [SamuraiMath (video)](https://www.youtube.com/watch?v=acsSIyDugP0) on 2D Newton's method
+  * 1D and 2D Bisection Method from [Oscar Veliz (video)](https://www.youtube.com/watch?v=rMg61nfkZ3M)
 
 ## Numerical time integration 
 
