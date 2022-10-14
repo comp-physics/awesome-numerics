@@ -31,7 +31,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [What Every Computer Scientist Should Know About Floating-Point Arithmetic by David Goldberg](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
   - Code examples
     - [A Primer on Floating-Point Arithmetic and IEEE 754 in C/Cpp](https://github.com/tkphd/floating-point)
-    - [Examples of cancellation and floating point numbers from Andreas Klockner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/error_and_fp)
+    - [Examples of cancellation and floating point numbers from Andreas Klöckner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/error_and_fp)
     
   
 ## Linear systems
@@ -51,7 +51,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [High performance linpack (HPL)](https://netlib.org/benchmark/hpl/)
 
   - Code examples
-    - [Examples from Andreas Klockner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_systems)
+    - [Examples from Andreas Klöckner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_systems)
     - [LU Decomp. via Doolittle from Quantstart (Python)](https://www.quantstart.com/articles/LU-Decomposition-in-Python-and-NumPy/)
     - [LU from John Foster (Python)](https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_LU.html)
     - [LU in Matlab](https://gist.github.com/Musbiha/d9c32414ead11f5bd30f) and [with pivoting](https://gist.github.com/02015678/353ea94c27e4c5f89c9d)
@@ -71,7 +71,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [Arnold Yim on QR (video)](https://www.youtube.com/watch?v=7KP6TO5JXYY)
 
   - Code examples
-    - [Andreas Klockner on several methods: QR, Householder, Givens, Gram-Schmidt, and more (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_least_squares)
+    - [Andreas Klöckner on several methods: QR, Householder, Givens, Gram-Schmidt, and more (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_least_squares)
     - [QR via Householder (Python)](https://python.algorithms-library.com/maths/qr_decomposition)
     - [QR and its flavors (Matlab)](https://www.mathworks.com/matlabcentral/fileexchange/16536-qr-rq-ql-lq-factorizations)
     - [QR from Trefethen and Bau's book in ipynb (Matlab)](https://gist.github.com/tobydriscoll/8d87997704e9fd400e96ea860d9f6a34?short_path=e6834d9)
@@ -110,6 +110,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     
 ## Solving nonlinear Equations
 
+* Code examples on Bisection, Newton's method, and more from [Andreas Klöckner of UIUC](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/nonlinear)
 * Visualizing 2D root solving
   * [2D Newton iteration](https://www.linkedin.com/pulse/article/20140906044926-58744538-visualizing-newton-s-method-for-optimization-ii) from Daniel Korenblum
   * Another great example from [SamuraiMath (video)](https://www.youtube.com/watch?v=acsSIyDugP0) on 2D Newton's method
