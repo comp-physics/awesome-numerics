@@ -110,6 +110,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     
 ## Solving nonlinear euations
 
+* Lecture slides on the topic from [Joseph Mahaffy of SDSU](https://jmahaffy.sdsu.edu/courses/f16/math541/beamer/fzero.pdf)
+
 * Visualizing 2D root solving
   * [2D Newton iteration](https://www.linkedin.com/pulse/article/20140906044926-58744538-visualizing-newton-s-method-for-optimization-ii) from Daniel Korenblum
   * Another great example from [SamuraiMath (video)](https://www.youtube.com/watch?v=acsSIyDugP0) on 2D Newton's method
