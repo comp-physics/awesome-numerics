@@ -1,4 +1,4 @@
-# Awesome Numerics
+# Awesome Numerics <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![LinkCheck Action Status](https://github.com/comp-physics/awesome-numerics/workflows/LinkChecker/badge.svg)](https://github.com/comp-physics/awesome-numerics/actions)
 
 Resources for learning about numerical methods.
 This document is a work in progress, but nevertheless contains useful information. 
