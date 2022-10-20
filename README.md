@@ -110,6 +110,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     
 ## Solving nonlinear euations
 
+* Secant method convergence rate [is the golden ratio](https://math.stackexchange.com/questions/1459056/convergence-rate-of-the-secant-method)
+
 * Notes on the topic
   * [Homer Reid](https://nanopdf.com/download/18330-lecture-notes-nonlinear-root-finding-and-a-glimpse-at-optimization-content_pdf)
 
