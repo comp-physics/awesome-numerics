@@ -131,7 +131,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 * Code examples
   * Bisection, Newton's method, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/nonlinear)
-
+  * 2D Newton's method from [Hub on IT (python)](https://github.com/hubonit/2D-Newton-Raphson-Method)
+  * Broyden method from [Tim Kelly (Matlab)](https://people.sc.fsu.edu/~jburkardt/m_src/broyden/broyden.html)
 
 ## Numerical time integration 
 
