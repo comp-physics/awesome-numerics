@@ -127,7 +127,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * Another great example from [SamuraiMath (video)](https://www.youtube.com/watch?v=acsSIyDugP0) on 2D Newton's method
   * 1D and 2D Bisection Method from [Oscar Veliz (video)](https://www.youtube.com/watch?v=rMg61nfkZ3M)
 
-* Systems of nonlinear equations from Jeff Chasnov (video)](https://www.youtube.com/watch?v=wrQA1_nei7w)
+* Systems of nonlinear equations from [Jeff Chasnov (video)](https://www.youtube.com/watch?v=wrQA1_nei7w)
 
 * Code examples
   * Bisection, Newton's method, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/nonlinear)
