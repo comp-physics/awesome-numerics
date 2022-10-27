@@ -141,6 +141,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 * Video resources
   * Successive parabolic interpolation from [Oscar Veliz](https://www.youtube.com/watch?v=3WHcQofG7B8)
+  * Comprehensive videos from [Christopher Lum](https://www.youtube.com/watch?v=qcFdpBi5i38), see his other videos as well!
 
 * Code examples
   * Newton's method, steepest descent, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/demos/optimization)
