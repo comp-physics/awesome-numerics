@@ -137,7 +137,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 ## Optimization
 
 * Notes
-  * Parabolic interpolation and gradient descent from [Leonid Kovalev of Syracuse](https://drlvk.github.io/nm/chapter-parabolic-interpolation-descent.html)
+  * Great online notes from [Leonid Kovalev of Syracuse](https://drlvk.github.io/nm/part-optimization.html) including _code examples in Matlab_.
 
 * Code examples
   * Newton's method, steepest descent, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/demos/optimization)
