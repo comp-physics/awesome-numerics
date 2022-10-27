@@ -139,6 +139,9 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 * Notes
   * Great online notes from [Leonid Kovalev of Syracuse](https://drlvk.github.io/nm/part-optimization.html) including _code examples in Matlab_.
 
+* Video resources
+  * Successive parabolic interpolation from [Oscar Veliz](https://www.youtube.com/watch?v=3WHcQofG7B8)
+
 * Code examples
   * Newton's method, steepest descent, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/demos/optimization)
   * Nelder-Mead from [François Chollet (python)](https://github.com/fchollet/nelder-mead)
