@@ -138,6 +138,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 * Notes
   * Great online notes from [Leonid Kovalev of Syracuse](https://drlvk.github.io/nm/part-optimization.html) including _code examples in Matlab_.
+  * Theoretical and mathematical underpinnings of optimization from [Angelia Nedić of ASU](http://www.ifp.illinois.edu/~angelia/optimization_one.pdf)
 
 * Video resources
   * Successive parabolic interpolation from [Oscar Veliz](https://www.youtube.com/watch?v=3WHcQofG7B8)
