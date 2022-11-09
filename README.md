@@ -173,15 +173,18 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * Steepest decent, Newton's method, and more from [Eirini Mitsopoulou (matlab)](https://github.com/EiriniMits/Optimization-Techniques)
 
 ## Interpolation
-
-  * Gaussian Quadratrue
-    * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
+    
+  * Spline and all that
+    * What's the difference between splines and piecewise interpolants? [Check out this SE.math Q/A](https://math.stackexchange.com/questions/62360/natural-cubic-splines-vs-piecewise-hermite-splines) and [this one too](https://math.stackexchange.com/questions/4020317/advantages-of-cubic-spline-interpolation-over-cubic-hermite-interpolation)
+    * There are many types of splines. Check out [Quasar Chunawala's comments on the topic!](https://www.baeldung.com/cs/spline-differences)
     
   * Code examples
     * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
     
 ## Numerical integration and quadrature
 
+  * Gaussian Quadrature
+    * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
 
 ## Numerical time integration 
 
