@@ -187,6 +187,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     
   * Code examples
     * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
+    * [Chebfun!](https://www.chebfun.org/) (a classic, in Matlab)
     
 ## Numerical integration and quadrature
 
