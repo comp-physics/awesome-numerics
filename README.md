@@ -151,6 +151,13 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * Nelder-Mead from [François Chollet (python)](https://github.com/fchollet/nelder-mead)
   * Steepest decent, Newton's method, and more from [Eirini Mitsopoulou (matlab)](https://github.com/EiriniMits/Optimization-Techniques)
 
+## Interpolation
+
+## Numerical integration and quadrature
+
+  - Gaussian Quadratrue
+    - [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
+    - 
 ## Numerical time integration 
 
   - Videos from Prof. Steve Brunton (Washington) 
@@ -160,11 +167,6 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   
   - [David Shirokoff on Euler's method](https://www.youtube.com/watch?v=X5-ucBtneVM)
 
-## Numerical integration and quadrature
-
-  - Gaussian Quadratrue
-    - [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
-  
 ## Ordinary differential equations
 
   - [3Blue1Brown (video)](https://youtu.be/p_di4Zn4wz4)
