@@ -8,6 +8,12 @@ Assumed knowledge is an undergraduate linear algebra course and the calculus/dif
 _Disclaimer:_ Most linked content is _not_ licensed, owned, or maintained by S. H. Bryngelson, nor can I ensure the correctness of any of the below resources. 
 Use for educational purposes and at your own risk.
 
+## Table of contents 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Linear algebra refresher 
 
 Numerical analysis and linear algebra are fundamentally entangled. 
