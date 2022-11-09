@@ -149,6 +149,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 * Code examples
   * Newton's method, steepest descent, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/demos/optimization)
   * Nelder-Mead from [François Chollet (python)](https://github.com/fchollet/nelder-mead)
+  * Steepest decent, Newton's method, and more from [Eirini Mitsopoulou (matlab)](https://github.com/EiriniMits/Optimization-Techniques)
 
 ## Numerical time integration 
 
