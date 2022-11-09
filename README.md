@@ -174,11 +174,15 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Interpolation
 
+  * Gaussian Quadratrue
+    * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
+    
+  * Code examples
+    * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
+    
 ## Numerical integration and quadrature
 
-  - Gaussian Quadratrue
-    - [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
-    - 
+
 ## Numerical time integration 
 
   - Videos from Prof. Steve Brunton (Washington) 
