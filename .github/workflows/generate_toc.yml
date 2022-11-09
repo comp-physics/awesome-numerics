@@ -2,7 +2,7 @@ name: Generate TOC
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   generateTOC:
     runs-on: ubuntu-latest
