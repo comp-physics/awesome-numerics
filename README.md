@@ -184,6 +184,10 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     * The [zoology](https://en.wikipedia.org/wiki/Orthogonal_polynomials) of orthogonal polynomials
     
   * Great and rather comprehensive lecture notes from Leonid Kovalev on [polynomial interpolation](https://drlvk.github.io/nm/chapter-polynomial-interpolation.html), [Chebyshev polynomials](https://drlvk.github.io/nm/chapter-chebyshev.html), and [splines](https://drlvk.github.io/nm/chapter-spline-interpolation.html)
+
+  * Video resources
+    * Spline examples and derivations from [Jacob Bishop](https://www.youtube.com/watch?v=dxvmafuP9Wk) and [The Math Guy](https://www.youtube.com/watch?v=wMMjF7kXnWA)
+    * Bicubic interpolation with application to image scaling by the beloved [Mike Pound (computerphile)](https://www.youtube.com/watch?v=poY_nGzEEWM)
     
   * Code examples
     * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
