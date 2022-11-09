@@ -178,6 +178,10 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     * What's the difference between splines and piecewise interpolants? [Check out this SE.math Q/A](https://math.stackexchange.com/questions/62360/natural-cubic-splines-vs-piecewise-hermite-splines) and [this one too](https://math.stackexchange.com/questions/4020317/advantages-of-cubic-spline-interpolation-over-cubic-hermite-interpolation)
     * There are many types of splines. Check out [Quasar Chunawala's comments on the topic!](https://www.baeldung.com/cs/spline-differences)
     
+  * Orthogonal polynomials
+    * Chebyshev interpolation notes from [Nicholas Marshall of Oregon State](https://web.math.princeton.edu/~nfm2/chebyshev-interpolation.pdf)
+    * Runge's phenomenon (yes, [that Runge](https://en.wikipedia.org/wiki/Carl_Runge)) and the Chebyshev cure from [John Cook](https://www.johndcook.com/blog/2017/11/06/chebyshev-interpolation/)
+    
   * Code examples
     * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
     
