@@ -174,13 +174,16 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
 ## Interpolation
     
-  * Spline and all that
+  * Splines and all that
     * What's the difference between splines and piecewise interpolants? [Check out this SE.math Q/A](https://math.stackexchange.com/questions/62360/natural-cubic-splines-vs-piecewise-hermite-splines) and [this one too](https://math.stackexchange.com/questions/4020317/advantages-of-cubic-spline-interpolation-over-cubic-hermite-interpolation)
     * There are many types of splines. Check out [Quasar Chunawala's comments on the topic!](https://www.baeldung.com/cs/spline-differences)
     
   * Orthogonal polynomials
     * Chebyshev interpolation notes from [Nicholas Marshall of Oregon State](https://web.math.princeton.edu/~nfm2/chebyshev-interpolation.pdf)
     * Runge's phenomenon (yes, [that Runge](https://en.wikipedia.org/wiki/Carl_Runge)) and the Chebyshev cure from [John Cook](https://www.johndcook.com/blog/2017/11/06/chebyshev-interpolation/)
+    * The [zoology](https://en.wikipedia.org/wiki/Orthogonal_polynomials) of orthogonal polynomials
+    
+  * Great and rather comprehensive lecture notes from Leonid Kovalev on [polynomial interpolation](https://drlvk.github.io/nm/chapter-polynomial-interpolation.html), [Chebyshev polynomials](https://drlvk.github.io/nm/chapter-chebyshev.html), and [splines](https://drlvk.github.io/nm/chapter-spline-interpolation.html)
     
   * Code examples
     * Monominals, orthogonal polynomials, and more from [Andreas Klöckner of UIUC (python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/interpolation)
