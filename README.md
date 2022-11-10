@@ -23,7 +23,7 @@ Use for educational purposes and at your own risk.
 - [Optimization](#optimization)
 - [Interpolation](#interpolation)
 - [Numerical integration and quadrature](#numerical-integration-and-quadrature)
-- [Numerical time integration](#numerical-time-integration)
+- [Initial value problems](#initial-value-problems)
 - [Ordinary differential equations](#ordinary-differential-equations)
 - [Partial differential equations](#partial-differential-equations)
 
