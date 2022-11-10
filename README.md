@@ -207,7 +207,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     * Trapazoidal rule in Matlab from [Christoffer Bredo Lillelund](https://gist.github.com/Mediemanden/aa392c10951d1cae6a11886b8289e84a)
     * Embedded notes and quadrature examples in Matlab (interactive courseware) from [Emma Smith Zbarsky](https://github.com/MathWorks-Teaching-Resources/Numerical-Integration)
 
-## Numerical time integration 
+## Initial value problems
 
   - Videos from Prof. Steve Brunton (Washington) 
     - [Introduction to the topic](https://www.youtube.com/watch?v=rdB9vN2YxKs) 
