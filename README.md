@@ -23,7 +23,7 @@ Use for educational purposes and at your own risk.
 - [Optimization](#optimization)
 - [Interpolation](#interpolation)
 - [Numerical integration and quadrature](#numerical-integration-and-quadrature)
-- [Initial value problems](#initial-value-problems)
+- [Numerical time integration](#numerical-time-integration)
 - [Ordinary differential equations](#ordinary-differential-equations)
 - [Partial differential equations](#partial-differential-equations)
 
@@ -195,8 +195,12 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     
 ## Numerical integration and quadrature
 
-  * Gaussian Quadrature
-    * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
+  * Lecture notes and slides
+    * Comprehensive lecture slides from Joseph Mahaffy (SDSU) on [quadrature rules](https://jmahaffy.sdsu.edu/courses/f16/math541/beamer/quad.pdf)
+    * Lecture notes on quadrature from [Kevin Kreider of UAkron](https://www.math.uakron.edu/~kreider/num1/quadrature.pdf)
+    
+  * Video resources
+    * [Jeff Chasnov (youtube)](https://www.youtube.com/watch?v=w2xjlPwYock)
     
   * Notes on the conditioning and stability of quadrature rules by [Miriam Mehl of TUM](https://www-m2.ma.tum.de/foswiki/pub/M2/Allgemeines/CSENumerikWS12/09_handout_quadratur.pdf)
   
