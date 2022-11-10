@@ -197,6 +197,8 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 
   * Gaussian Quadrature
     * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
+    
+  * Notes on the conditioning and stability of quadrature rules by [Miriam Mehl of TUM](https://www-m2.ma.tum.de/foswiki/pub/M2/Allgemeines/CSENumerikWS12/09_handout_quadratur.pdf)
 
 ## Numerical time integration 
 
