@@ -199,6 +199,13 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     * [Jeff Chasnov (video)](https://www.youtube.com/watch?v=w2xjlPwYock)
     
   * Notes on the conditioning and stability of quadrature rules by [Miriam Mehl of TUM](https://www-m2.ma.tum.de/foswiki/pub/M2/Allgemeines/CSENumerikWS12/09_handout_quadratur.pdf)
+  
+  * Code examples
+    * Newton-Cotes and Gaussian quadrature, finite differences from [Andreas Klöckner of UIUC (python)[https://github.com/inducer/numerics-notes/tree/main/cleared-demos/quadrature_and_diff]
+    * [quadpy](https://github.com/sigma-py/quadpy): A Python package for quadrature rules
+    * Embedded notes and Newton-Cotes quadrature examples from [Jennifer Klay, Matt Moelter, Jodi Christiansen, and more (python)](https://notebook.community/JAmarel/Phys202/Integration/Integration)
+    * Trapazoidal rule in Matlab from [Christoffer Bredo Lillelund](https://gist.github.com/Mediemanden/aa392c10951d1cae6a11886b8289e84a)
+    * Embedded notes and quadrature examples in Matlab (interactive courseware) from [Emma Smith Zbarsky](https://github.com/MathWorks-Teaching-Resources/Numerical-Integration)
 
 ## Numerical time integration 
 
