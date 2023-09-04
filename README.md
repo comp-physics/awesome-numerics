@@ -38,6 +38,13 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [Gilbert Strang (video)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
   - [3Blue1Brown (video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+## Error analysis
+
+- [What Is Backward Error? by Nick Higham](https://nhigham.com/2020/03/25/what-is-backward-error/)
+- [Some examples of error analysis from Doug Hundley](http://people.whitman.edu/~hundledr/courses/M467F06/ConvAndError2.pdf)
+- [Lecture notes on conditioning and error analysis from Jim Lambers](https://www.math.usm.edu/lambers/mat460/fall09/lecture6.pdf)
+- [Lecture slides on the same topic from Jan Verschelde](http://homepages.math.uic.edu/~jan/mcs471/conditioning.pdf)
+
 ## Floating point numbers 
   - [Computerphile (video)](https://www.youtube.com/watch?v=PZRI1IfStY0)
   - [IEEE standards (video)](https://www.youtube.com/watch?v=RuKkePyo9zk)
