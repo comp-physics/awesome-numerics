@@ -50,6 +50,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   - [Avoiding catastrophic cancellation with quadratic formula](https://www.cs.utexas.edu/users/flame/laff/alaff/a2appendix-catastrophic-cancellation.html)
   - [Lecture notes from Richard Krueger of UT](http://www.cs.toronto.edu/~krueger/csc165h/f06/lectures/ch7.pdf) 
   - [What Every Computer Scientist Should Know About Floating-Point Arithmetic by David Goldberg](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+  - [Rounding and chopping to a floating point number by Ming Gu](https://math.berkeley.edu/~mgu/MA128AFall2017/MA128ALectureWeek2.pdf)
   - Code examples
     - [A Primer on Floating-Point Arithmetic and IEEE 754 in C/Cpp](https://github.com/tkphd/floating-point)
     - [Examples of cancellation and floating point numbers from Andreas Klöckner of UIUC (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/error_and_fp)
