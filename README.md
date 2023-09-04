@@ -15,6 +15,7 @@ Use for educational purposes and at your own risk.
 
 
 - [Linear algebra refresher](#linear-algebra-refresher)
+- [Error analysis](#error-analysis)
 - [Floating point numbers](#floating-point-numbers)
 - [Linear systems](#linear-systems)
 - [Least squares](#least-squares)
