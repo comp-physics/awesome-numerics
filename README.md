@@ -45,6 +45,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 - [Some examples of error analysis from Doug Hundley](http://people.whitman.edu/~hundledr/courses/M467F06/ConvAndError2.pdf)
 - [Lecture notes on conditioning and error analysis from Jim Lambers](https://www.math.usm.edu/lambers/mat460/fall09/lecture6.pdf)
 - [Lecture slides on the same topic from Jan Verschelde](http://homepages.math.uic.edu/~jan/mcs471/conditioning.pdf)
+- [Some examples with solutions in an IPython Notebook](https://gist.github.com/Bombaba/10664fc8fd05b0ecc85a46bf7f257ac2)
 
 ## Floating point numbers 
   - [Computerphile (video)](https://www.youtube.com/watch?v=PZRI1IfStY0)
