@@ -154,7 +154,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * [Alek Donev (NYU Courant)](https://cims.nyu.edu/~donev/Teaching/NMI-Fall2010/Lecture6.handout.pdf)
  
 * Visualizing 2D root solving
-  * [2D Newton iteration](https://www.linkedin.com/pulse/article/20140906044926-58744538-visualizing-newton-s-method-for-optimization-ii) from Daniel Korenblum
+  * [2D Newton iteration](https://gist.github.com/dannyko/0956c361a6ce22362867) from Daniel Korenblum
   * Another great example from [SamuraiMath (video)](https://www.youtube.com/watch?v=acsSIyDugP0) on 2D Newton's method
   * 1D and 2D Bisection Method from [Oscar Veliz (video)](https://www.youtube.com/watch?v=rMg61nfkZ3M)
 
