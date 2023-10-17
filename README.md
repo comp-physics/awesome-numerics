@@ -239,6 +239,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 ## Ordinary differential equations
 
   - [3Blue1Brown (video)](https://youtu.be/p_di4Zn4wz4)
+  - [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/ivp/overview.html)
 
 ## Partial differential equations
 
