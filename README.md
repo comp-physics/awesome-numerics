@@ -69,6 +69,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
 ## Linear systems
 
   - [Overview of solving linear systems from Chen Greif](https://www.cs.tau.ac.il/~dcor/Graphics/adv-slides/Solving.pdf)
+  - [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/linsys/overview.html)
   - Don't invert that matrix!
     - [Greg Gundersen](https://gregorygundersen.com/blog/2020/12/09/matrix-inversion/)
     - [John Cook](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)
@@ -101,6 +102,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
     - [Blog on QR from TDS, Ben Denis Shaffer](https://towardsdatascience.com/qr-matrix-factorization-15bae43a6b2)
     - [Arnold Yim on QR (video)](https://www.youtube.com/watch?v=7KP6TO5JXYY)
+  - [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/leastsq/overview.html)
 
   - Code examples
     - [Andreas Klöckner on several methods: QR, Householder, Givens, Gram-Schmidt, and more (Python)](https://github.com/inducer/numerics-notes/tree/main/cleared-demos/linear_least_squares)
@@ -148,6 +150,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * [Homer Reid](https://nanopdf.com/download/18330-lecture-notes-nonlinear-root-finding-and-a-glimpse-at-optimization-content_pdf)
   * [Kendall Atkinson (UIowa)](https://homepage.divms.uiowa.edu/~atkinson/ENA_Materials/Overheads/sec_7-3.pdf)
   * [Fabrice Collard (Toulouse)](http://fabcol.free.fr/pdf/lectnotes5.pdf) 
+  * [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/nonlineqn/overview.html)
   
 * Lecture slides on the topic
   * [Joseph Mahaffy of SDSU](https://jmahaffy.sdsu.edu/courses/f16/math541/beamer/fzero.pdf)
@@ -184,7 +187,9 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
   * Steepest decent, Newton's method, and more from [Eirini Mitsopoulou (matlab)](https://github.com/EiriniMits/Optimization-Techniques)
 
 ## Interpolation
-    
+
+  * [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/localapprox/overview.html)
+
   * Splines and all that
     * What's the difference between splines and piecewise interpolants? [Check out this SE.math Q/A](https://math.stackexchange.com/questions/62360/natural-cubic-splines-vs-piecewise-hermite-splines) and [this one too](https://math.stackexchange.com/questions/4020317/advantages-of-cubic-spline-interpolation-over-cubic-hermite-interpolation)
     * There are many types of splines. Check out [Quasar Chunawala's comments on the topic!](https://www.baeldung.com/cs/spline-differences)
