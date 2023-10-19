@@ -102,6 +102,7 @@ Fortunately, there are many great resources to get you up to speed, so dust off 
     - [Gram-Schmidt and loss of orthogonality](https://www.cis.upenn.edu/~cis6100/Gram-Schmidt-Bjorck.pdf) 
     - [Blog on QR from TDS, Ben Denis Shaffer](https://towardsdatascience.com/qr-matrix-factorization-15bae43a6b2)
     - [Arnold Yim on QR (video)](https://www.youtube.com/watch?v=7KP6TO5JXYY)
+    - [A linear alg. explanation of projectors from Ross MacAusland](http://buzzard.ups.edu/courses/2014spring/420projects/math420-UPS-spring-2014-macausland-pseudo-inverse-present.pdf)
   - [Online text from Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/leastsq/overview.html)
 
   - Code examples
